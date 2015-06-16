@@ -31,4 +31,12 @@ Custom range directive for Ionic Framework. It has the same look and feel of the
 
 ## Example
 
-Live example can be found on this Codepen:
+Live example can be found on Ionic Playground.
+* Instructions
+  * Open Google Chrome and enable Device Mode (first open Developer tools and on the top left, next to search icon there is a mobile icon)
+  * Next, paste: http://play.ionic.io/m/fc9456fe858f
+
+Full code preview (range component will not work in desktop browser without Device mode): 
+http://play.ionic.io/app/fc9456fe858f
+
+
